@@ -21,8 +21,8 @@
   "homepage": "https://github.com/mkoryak/nunjucks-script-tag",
   "dependencies": {
     "coffee-script": "~1.6.3",
-    "htmlparser2": "~3.3.0",
-    "uglify-js": "~2.4.3",
-    "nunjucks": "~1.0.0"
+    "htmlparser2": "~3.9.0",
+    "uglify-js": "~2.6.1",
+    "nunjucks": "^2.2.0"
   }
 }
